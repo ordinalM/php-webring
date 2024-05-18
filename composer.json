@@ -1,0 +1,15 @@
+{
+    "name": "ordinalm/php-webring",
+    "autoload": {
+        "psr-4": {
+            "Ordinalm\\PhpWebring\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ordinal M",
+            "email": "ordinal@ordinalmalaprop.com"
+        }
+    ],
+    "require": {}
+}
